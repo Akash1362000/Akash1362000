@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Akash
 
-<!--
-**Akash1362000/Akash1362000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Welcome to my profile 💻
 
-Here are some ideas to get you started:
+* 20 year old Information Technology Undergraduate student 🎓
+* Front-End Web Developer 🌐
+* Full Stack Enthusiast  👨‍💻
+* Django & Android ❤
+* Loves to Code 👨‍💻
+* **Hobbies**: 🚴‍♂️ and 📸 
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+
+---
+
+**Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
