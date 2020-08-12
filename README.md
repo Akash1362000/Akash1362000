@@ -2,6 +2,7 @@
 
 #### Welcome to my profile 💻
 
+* Google Developer Student Club (DSC) Lead at Dr. DY Patil College of Engineering, Pune 👨‍💻
 * 20 year old Information Technology Undergraduate student 🎓
 * Front-End Web Developer 🌐
 * Full Stack Enthusiast  👨‍💻
@@ -17,3 +18,5 @@
 ---
 
 **🔗 Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
+
+⭐ from [here](https://github.com/Akash1362000)
