@@ -2,7 +2,7 @@
 
 #### Welcome to my profile 💻
 
-* Google Developer Student Club (DSC) Lead at Dr. DY Patil College of Engineering, Pune 👨‍💻
+* Developer Student Club (DSC) Lead at Dr. DY Patil College of Engineering, Pune (Powered by Google) 👨‍💻
 * SIH '20 Finalist 
 * 20 year old Information Technology Undergraduate student 🎓
 * Front-End Web Developer 🌐
