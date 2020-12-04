@@ -18,6 +18,6 @@
 
 ---
 
-**🔗 Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
+**🔗 Know more about me here**: [akashshrivastava.me](https://akash1362000.github.io/)
 
 ⭐ from [here](https://github.com/Akash1362000/Akash1362000)
