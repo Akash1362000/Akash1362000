@@ -22,4 +22,6 @@
 
 **🔗 Know more about me here**: [akashshrivastava.me](https://akash1362000.github.io/)
 
+![Profile views](https://gpvc.arturio.dev/Akash1362000)
+
 ⭐ from [here](https://github.com/Akash1362000/Akash1362000)
