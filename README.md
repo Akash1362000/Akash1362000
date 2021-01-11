@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Akash
 
+![Akash Shrivastava](https://i.imgur.com/0cqmL7P.png)
+
 #### Welcome to my profile 💻
 
 * Developer Student Club (DSC) Lead at Dr. DY Patil College of Engineering, Pune (Powered by Google) 👨‍💻
