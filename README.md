@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=jolly">
 
-### Let's Connect 😎
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/akash136/" target="_blank">
