@@ -23,7 +23,7 @@
 
 ### Recent Projects 👨‍💻
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=jolly">
 
 ---
 
