@@ -26,6 +26,39 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=jolly">
 
 ---
+### Let's Connect 😎
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/akash136/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Akash Shrivastava linkedin style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://github.com/Akash1362000" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Akash Shrivastava GitHub style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://twitter.com/shrivastava136" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:akash.shrivastava136@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Akash Shrivastava gmail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/akash_shrivastava_136/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
+</a>
+                                                                                                                                                 
+<a href="https://www.facebook.com/akash.shrivastava.3114" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Akash Shrivastava Facebook style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://www.youtube.com/channel/UCWCMtMqx9s-CzkF1BcjLuEw" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=Akash Shrivastava YouTube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+---
 
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
