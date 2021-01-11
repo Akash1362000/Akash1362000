@@ -18,8 +18,12 @@
 
 ![Django](https://img.shields.io/badge/-django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Akash1362000&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1362000"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Akash1362000&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1362000"/>|
 |---|---|
+
+### Recent Projects 👨‍💻
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=vue">
 
 ---
 
