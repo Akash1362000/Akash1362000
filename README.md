@@ -14,6 +14,13 @@
 * **Hobbies**: 🚴‍♂️ and 📸 
 * Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
 
+### Mostly Work With ⚒
+
+![Django](https://img.shields.io/badge/-django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
+
+|<img src="https://github-readme-stats.vercel.app/api?username=Akash1362000&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1362000"/>|
+|---|---|
+
 ---
 
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
