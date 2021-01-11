@@ -74,4 +74,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/Akash1362000)
 
-⭐ from [here](https://github.com/Akash1362000/Akash1362000)
+Leave a ⭐ from [here](https://github.com/Akash1362000/Akash1362000) if you like 😁
