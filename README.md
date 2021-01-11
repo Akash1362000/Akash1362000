@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akash
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akash
 
 ![Akash Shrivastava](https://i.imgur.com/0cqmL7P.png)
 
