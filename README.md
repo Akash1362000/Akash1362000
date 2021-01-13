@@ -35,7 +35,8 @@
 
 ### Recent Projects 👨‍💻
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=jolly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=jolly"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=Ghost-Filter&show_icons=true&theme=jolly">
+
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
