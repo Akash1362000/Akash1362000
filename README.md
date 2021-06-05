@@ -76,7 +76,7 @@
 
 ---
 
-**🔗 Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
+**🔗 Know more about me here**: [akashshrivastava.co](https://akashshrivastava.co/)
 
 ![Profile views](https://gpvc.arturio.dev/Akash1362000)
 
