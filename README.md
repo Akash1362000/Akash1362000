@@ -34,7 +34,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=Akash1362000&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1362000"/>|
 |---|---|
 
-![LeetCode](https://cp-logo.vercel.app/leetcode/Akash136)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/Akash136)](https://leetcode.com/Akash136/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/akash_136/practice/)
 
 ### Most Used Languages 💻
