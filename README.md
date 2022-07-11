@@ -6,7 +6,7 @@
 
 * Ex-Google Developer Student Club (GDSC) Lead at D.Y. Patil College of Engineering, Pune 👨‍💻
 * SIH '20 Finalist 🛠
-* 21 year old Information Technology Undergraduate student 🎓
+* 22 year old Information Technology Undergraduate student 🎓
 * Django Developer 🌐
 * Full Stack Enthusiast  👨‍💻
 * Django & Android ❤
