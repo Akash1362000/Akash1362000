@@ -81,7 +81,7 @@
 
 ---
 
-**🔗 Know more about me here**: [akashshrivastava.me](https://akashshrivastava.me/)
+**🔗 Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
 
 ![Profile views](https://gpvc.arturio.dev/Akash1362000)
 
