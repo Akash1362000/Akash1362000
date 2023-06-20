@@ -61,6 +61,10 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://medium.com/@akash.shrivastava136/" target="_blank">
+<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=Akash Shrivastava medium style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://www.instagram.com/akash_shrivastava_136/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
 </a>
