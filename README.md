@@ -77,6 +77,7 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akash1362000&style=for-the-badge)
 
 
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
