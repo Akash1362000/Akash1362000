@@ -4,15 +4,13 @@
 
 #### Welcome to my profile 💻
 
-* Ex-Google Developer Student Club (GDSC) Lead at D.Y. Patil College of Engineering, Pune 👨‍💻
-* SIH '20 Finalist 🛠
-* 22 year old Information Technology Undergraduate student 🎓
 * Django Developer 🌐
-* Full Stack Enthusiast  👨‍💻
 * Django & Android ❤
 * Loves to Code 👨‍💻
+* SIH '20 Finalist 🛠
+* Ex-Google Developer Student Club (GDSC) Lead at D.Y. Patil College of Engineering, Pune 👨‍💻
 * **Hobbies**: 🚴‍♂️ and 📸 
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
+* Want to connect with me? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
 
 ### Mostly Work With ⚒
 
@@ -30,6 +28,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Akash1362000&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1362000"/>|
 |---|---|
@@ -61,10 +61,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:akash.shrivastava136@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Akash Shrivastava gmail style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.instagram.com/akash_shrivastava_136/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
 </a>
@@ -77,12 +73,16 @@
 
 ---
 
+
+
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
 
 **🔗 Know more about me here**: [akash1362000.github.io](https://akash1362000.github.io/)
 
-![Profile views](https://gpvc.arturio.dev/Akash1362000)
+## Stargazers
+
+[![Stargazers](https://reporoster.com/stars/Akash1362000/Akash1362000)](https://github.com/Akash1362000/Akash1362000/stargazers)
 
 Leave a ⭐ from [here](https://github.com/Akash1362000/Akash1362000) if you like 😁
