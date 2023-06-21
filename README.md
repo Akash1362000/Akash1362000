@@ -88,6 +88,6 @@
 
 ## Stargazers
 
-[![Stargazers](https://reporoster.com/stars/Akash1362000/Akash1362000)](https://github.com/Akash1362000/Akash1362000/stargazers)
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Akash1362000&repo=Akash1362000)](https://github.com/Akash1362000/Akash1362000/stargazers)
 
 Leave a ⭐ from [here](https://github.com/Akash1362000/Akash1362000) if you like 😁
